@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174570033975",
+    "firebase_url": "https://nimmt-7ed75-default-rtdb.firebaseio.com",
+    "project_id": "nimmt-7ed75",
+    "storage_bucket": "nimmt-7ed75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174570033975:android:e976016dbb9f26bfae00b2",
+        "android_client_info": {
+          "package_name": "com.saneyuki.Nimmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174570033975-3vgn238n1rjkn2h2m1cv9frn25etnd5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtLt0b2AOC-sXKMdL8bbDrSEZnCz19Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174570033975-3vgn238n1rjkn2h2m1cv9frn25etnd5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174570033975-25al6ctgvm9pj09vbhte3o7ela7lv3qa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saneyuki.Nimmt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
